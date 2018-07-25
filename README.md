@@ -1,2 +1,2 @@
 # frimelyze
-Pipeline to for time-frequenzy analyzation
+Pipeline for time-frequenzy analysis
